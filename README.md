@@ -27,3 +27,7 @@ mi-primer-proyecto/
 ## Fecha de creación
 
 28 de marzo de 2026
+
+## Changelog
+
+- **28 de marzo de 2026** — Creación inicial del proyecto con estructura base, documentación y primer reporte mensual.
